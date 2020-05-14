@@ -4,6 +4,9 @@ execute pathogen#infect()
 " code format
 syntax on
 filetype plugin indent on
+set tabstop=2		" 2 spaces per tab
+set shiftwidth=2	" 2 spaces indentation
+set expandtab		" spaces instead of tabs
 
 " key bindings
 let mapleader = ","
@@ -18,6 +21,7 @@ colorscheme gruvbox       " ...gruvbox
 set cursorline            " highlight line
 set number		  " line numbers
 set colorcolumn=90	  " column limiting line width
+set hlsearch              " highlight search
 
 " ---------
 " clipboard
@@ -41,3 +45,4 @@ inoremap <expr> <C-n> pumvisible() ? '<C-n>' : '<C-n><C-r>=pumvisible() ? "\<lt>
 " other
 " -----
 set backspace=2 " for backspace not deleting issue
+setlocal fileformat=unix " unix-style CR, not windows' CRLF
