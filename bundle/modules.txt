@@ -1,0 +1,5 @@
+gruvbox - color scheme
+nerdtree - directory tree
+supertab - [TAB] for code completion list
+vim-nerdtree-tabs - support for opening files of nerdtree into tabs
+vim-rtags - rtags indexer integration - walking through code, callstacks, etc
