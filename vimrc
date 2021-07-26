@@ -16,7 +16,6 @@ map <Leader>n <plug>NERDTreeTabsToggle<CR>
 set mouse=n
 
 " apperance
-"set termguicolors
 set background=dark       " dark...
 let g:gruvbox_italic=1    " ...italic on...
 colorscheme gruvbox       " ...gruvbox
