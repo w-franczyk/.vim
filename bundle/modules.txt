@@ -2,4 +2,15 @@ gruvbox - color scheme
 nerdtree - directory tree
 supertab - [TAB] for code completion list
 vim-nerdtree-tabs - support for opening files of nerdtree into tabs
-vim-rtags - rtags indexer integration - walking through code, callstacks, etc
+vim-project - multi-project support
+a4gid - A4 GID support
+fzf - fast fuzzy find files (ctrl+f)
+fzf.vim - easy-use wrappers for fzf
+vim-eunuch - wrappers to shell commands (delete, move rename, etc)
+lightline.vim - status bar footer
+vim-visual-multi - multiple cursors
+YouCompleteMe - vim plugin for indexer (completion, navigation, etc)
+
+dependencies:
+fzf
+clangd

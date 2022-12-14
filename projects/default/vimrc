@@ -1,0 +1,13 @@
+" -----------
+" code format
+" -----------
+syntax on
+filetype plugin indent on
+set tabstop=2		" 2 spaces per tab
+set shiftwidth=2	" 2 spaces indentation
+set expandtab		" spaces instead of tabs
+set colorcolumn=90	  " column limiting line width
+
+" C++
+set cino=N-s " no indent below namespace definition
+

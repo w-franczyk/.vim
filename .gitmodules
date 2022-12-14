@@ -13,3 +13,24 @@
 [submodule "bundle/supertab"]
 	path = bundle/supertab
 	url = https://github.com/ervandew/supertab
+[submodule "bundle/vim-project"]
+	path = bundle/vim-project
+	url = git@github.com:amiorin/vim-project
+[submodule "bundle/fzf.vim"]
+	path = bundle/fzf.vim
+	url = https://github.com/junegunn/fzf.vim
+[submodule "bundle/vim-eunuch"]
+	path = bundle/vim-eunuch
+	url = https://github.com/tpope/vim-eunuch.git
+[submodule "bundle/lightline.vim"]
+	path = bundle/lightline.vim
+	url = https://github.com/itchyny/lightline.vim
+[submodule "bundle/vim-visual-multi"]
+	path = bundle/vim-visual-multi
+	url = https://github.com/mg979/vim-visual-multi
+[submodule "bundle/vim-minimap"]
+	path = bundle/vim-minimap
+	url = https://github.com/severin-lemaignan/vim-minimap.git
+[submodule "bundle/YouCompleteMe"]
+	path = bundle/YouCompleteMe
+	url = https://github.com/ycm-core/YouCompleteMe
