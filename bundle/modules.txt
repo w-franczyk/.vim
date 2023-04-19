@@ -10,6 +10,7 @@ vim-eunuch - wrappers to shell commands (delete, move rename, etc)
 lightline.vim - status bar footer
 vim-visual-multi - multiple cursors
 YouCompleteMe - vim plugin for indexer (completion, navigation, etc)
+nerdcommenter - code muliline automatic comments plugin
 
 dependencies:
 fzf
